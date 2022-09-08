@@ -4,7 +4,7 @@
  *
  * Description: using puts
  *
- * return: always 0 (success)
+ * Return: 0
   */
 int main(void)
 {
