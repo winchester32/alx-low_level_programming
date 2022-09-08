@@ -1,8 +1,11 @@
 #include <stdio.h>
-/*
- * puts
- * char
- * */
+/**
+ * main - Entry point
+ *
+ * Description: using puts
+ *
+ * return: always 0 (success)
+  */
 int main(void)
 {
 	char str[]  = "\"Programming is like building a multilingual puzzle";

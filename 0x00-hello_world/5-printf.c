@@ -1,5 +1,7 @@
 #include <stdio.h>
-/*main void
+/**
+ * main void
+ *
  * used print
  */
 int main(void)
