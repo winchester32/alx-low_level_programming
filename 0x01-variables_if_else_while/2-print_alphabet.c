@@ -1,17 +1,21 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- * main-
+ * main - entry
  *
- * sth
+ * prints the alphabet to lower case
  *
  * Return: 0
  */
-int main (void)
+int main(void)
 {
-	char ch;
-	for (ch ='A' ; ch <= 'Z' ; ch++) {
-		putchar(tolower(ch));
+	char ch[26] = "abcdefghijklmnopqrstuvwxyz";
+	int i;
+
+	for (i = 0; i < 26; i++)
+	{
+		putchar(ch[i]);
 	}
-	return(0);
+	putchar('\n');
+	return (0);
 }
