@@ -2,7 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 /**
- * main - prints without q and e
+ * main - entry
+ *
+ * prints alphabet without q and e
  *
  * Return : 0
  */
