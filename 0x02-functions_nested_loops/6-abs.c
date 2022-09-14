@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print absolute value
- * 
- * Return: 0
+ * _abs - function prints absolute value
+ * @i: takes in integer type input for function
  *
+ * Return: 0
  */
 int _abs(int i)
 {
