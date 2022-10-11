@@ -4,5 +4,7 @@
 /**
  * File: 0-object_like_macro
  * SIZE as an abbreviation
+ */
+
 #define SIZE 1024
 #endif
